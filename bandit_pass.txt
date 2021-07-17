@@ -1,0 +1,108 @@
+pass1 = boJ9jbbUNNfktd78OOpsqOltutMc3MY1
+pass2 = CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
+pass3 = UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
+pass4 = pIwrPrtPN36QITSp3EQaw936yaFoFgAB
+pass5 = koReBOKuIDDepwhWk7jZC0RTdopnAYKh
+pass6 = DXjZPULLxYr17uwoI01bNLQbtFemEgo7
+pass7 = HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
+pass8 = cvX2JJa4CFALtqS87jk27qwqGhBM9plV
+pass9 = UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
+pass10 = truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk
+pass11 = IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
+pass12 = 5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu
+pass13 = 8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL
+pass14 = 4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e
+pass15 = BfMYroe26WYalil77FoDi9qh59eK5xNr
+pass16 = cluFn7wTiGryunymYOu4RcffSxQluehd
+pass17 = xLYVMN9WE5zQ5vHacb0sZEVqbrp7nBTn
+pass18 = kfBf3eYk5BPBRzwjqutbbfE887SVc5Yd
+pass19 = IueksS7Ubh8G3DCwVzrTd8rAVOwq3M5x
+pass20 = GbKksEFF4yrVs6il55v6gwY5aVje5f0j
+pass21 = gE269g2h3mw3pwgrj0Ha9Uoqen1c9DGr
+pass22 = Yk7owGAcWjwMVRwrTesJEwB7WVOiILLI
+pass23 = jc1udXuA1tiHqjIsL8yaapX5XIAI6i0n
+pass24 = UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ
+pass25 = uNG9O58gUE7snukf3bvZ0rxhtnjzSGzG
+pass26 = 5czgV9L3Xx8JPOyRbXh6lQbmIOWvPT6Z
+pass27 = 3ba3118a22e93127a4ed485be72ef5ea
+pass28 = 0ef186ac70e04ea33b4c1853d2526fa2
+pass29 = bbc96594b4e001778eee9975372716b2
+pass30 = 5b90576bedb2cc04c86a9e924ce42faf
+pass31 = 47e603bb428404d265f59c42920d81e5
+pass32 = 56a9bf19c63d650ce78e6ec0354ee45e
+pass33 = c9c3199ddf4121b10cf581a98d51caee
+
+Natas:
+
+pass1 = gtVrDuiDfck831PqWsLEZy5gyDz1clto
+pass2 = ZluruAthQk7Q2MqmDeTiUij2ZvWy2mBi
+pass3 = sJIJNW6ucpu6HPZ1ZAchaDtwd7oGrD14
+pass4 = Z9tkRkWmpt9Qr7XrR5jWRkgOU901swEZ
+pass5 = iX6IOfmpN7AYOQGPwtn3fXpbaJVJcHfq
+pass6 = aGoY4q2Dc6MgDq4oL4YtoKtyAg9PeHa1
+pass7 = 7z3hEENjQtflzgnT29q7wAvMNfZdh0i9
+pass8 = DBfUBfqQG69KvJvJ1iAbMoIpwSNQ9bWe
+pass9 = W0mMhUcRRnG8dcghE4qvk3JA9lGt8nDl
+pass10 = nOpp1igQAkUzaI1GUUjzn1bFVj7xCNzu
+pass11 = U82q5TCMMQ9xuFoI3dYX61s7OZD9JKoK
+pass12 = EDXp0pS26wLKHZy1rDBPUZk0RKfLGIR3
+pass13 = jmLTY0qiPZBbaKc9341cqPQZBJv7MQbY
+pass14 = Lg96M10TdfaPyVBkJdjymbllQ5L6qdl1
+pass15 = AwWj0w5cvxrZiONgZ9J5stNVkmxdk39J
+pass16 = WaIHEacj63wnNIBROHeqi3p9t0m5nhmh
+pass17 = 8Ps3H0GWbn5rd9S7GmAdgQNdkhPkq9cw
+pass18 = xvKIqDjy4OPv7wCRgDlmj0pFsCsDjhdP
+pass19 = 4IwIrekcuZlA9OsjOkoUtwU6lhokCPYs
+pass20 = eofm3Wsshxc5bwtVnEuGIlr7ivb9KABF
+pass21 = IFekPyrQXftziDEsUr3x21sYuahypdgJ
+pass22 = chG9fbe1Tq2eWVMgjYYD1MsfIvN461kJ
+pass23 = D0vlad33nQF0Hz2EP255TP5wSW9ZsRSE
+pass24 = OsRmXFguozKpTZZ5X14zNO43379LZveg
+pass25 = GHF6X7YwACaYYssHVY05cFq83hRktl4c
+pass26 = oGgWAJ7zcGT28vYazGo4rkhOPDhBu34T
+pass27 = 55TBjpPZUUJgVP5b3BnbG6ON9uDPVzCJ
+pass28 = JWwR438wkgTsNKBbcJoowyysdM82YjeF
+pass29 = airooCaiseiyee8he8xongien9euhe8b
+pass30 = wie9iexae0Daihohv8vuu3cei9wahf0e
+
+kryton:
+pass1 = KRYPTONISGREAT
+pass2 = ROTTEN
+pass3 = CAESARISEASY
+pass4 = BRUTE
+KEY = FREKEY
+pass5 = CLEARTEXT
+KEY - KEYLENGTH
+pass6 = RANDOM
+
+
+KEY:
+EICTDGYIYZKTHNSIRFXYCPFUEOCKRN
+EICTDGYIYZKTHNSIRFXYCPFUEOCKRN
+EICTDGYIYZKTHNSIRFXY
+
+
+
+
+
+===========================HINT===================================
+http://bresleveloper.blogspot.com/2018/05/overthewire-bandit-walkthrough-just.html
+http://bresleveloper.blogspot.com/2018/05/overthewirecom-natas-walkthrough-just.html
+
+================================BLOG====================================
+For my Something Awesome Project, I did the CTF challenge from the website OverTheWire (https://overthewire.org/wargames/), the challenges I worked on are bandit(Level0 to Level34), Natas(Level0 to Level34). I started the project with the bandit and for my second portfolio I completed till Level 17 of the bandit challenges, I realized that this will take a lot of time so I come up with a strategy to put at least 2 hours of work every day for my something awesome, and I was able to complete all the levels from bandit till week5 and I started working on Natas starting of week7 I was able to do till level11 and then I till the end of week 8 I completed all the Level from Natas.
+
+
+
+In the challenge bandit, I had to do the CTF using Linux commands it's was not really difficult at first cause as a computer science student I am familiar with basic Linux commands, after level15, the challenges started to get harder but I was able to figure what to do as the challenge had some list of commands needed to solve that particular level, to better understand how a command works I used a website (https://www.tecmint.com/linux-commands-cheat-sheet/) which have Linux commands with examples. For these challenges, I had to use ssh to login into each level, so to use Linux on windows I downloaded Cygwin (https://www.cygwin.com/), but funny enough I found out after completing the challenges for bandit that window's PowerShell has ssh installed.
+
+
+
+In the challenge Natas, I had to find the flag using a bunch of web hacking tricks which includes cookie stealing, SQL injection, XSS injections, and etc. This set of challenges were really fun, as I got to practice what I learned in the extension part of this course. At first, challenges started with basic looking up at the source code or the cookies to get the flag. But later on, the challenge got so difficult that it was taking me almost 5 hours on one challenge, but research about a particular topic really help to get through all the challenges and for reference, I used a website (http://bresleveloper.blogspot.com/2018/05/overthewirecom-natas-walkthrough-just.html) that has hints on what to do for that particular level and the best part was that all these hints were spoiler-free.
+
+
+
+
+Outcome:
+
+After doing all the challenges from the bandit, it gave me a pretty strong knowledge about Linux commands and how I can use them, some of the commands I used to solve the challenges was Nmap, NC or telnet, grep, 
